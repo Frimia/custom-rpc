@@ -1,0 +1,26 @@
+{
+  "name": "custom-rpc",
+  "version": "1.0.0",
+  "description": "my custom rich presence for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superwhiskers/custom-rpc.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "superwhiskers",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/superwhiskers/custom-rpc/issues"
+  },
+  "homepage": "https://github.com/superwhiskers/custom-rpc#readme",
+  "dependencies": {
+    "discord-rich-presence": "0.0.6",
+    "js-yaml": "^3.11.0"
+  }
+}

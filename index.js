@@ -12,8 +12,7 @@ if you want a copy, go to http://www.gnu.org/licenses/
 // get some modules
 const yaml = require("js-yaml"),
       rpc = require("discord-rich-presence"),
-      fs = require("fs"),
-      ps = require("ps-node")
+      fs = require("fs")
 
 // config placeholder variable
 var cfg
