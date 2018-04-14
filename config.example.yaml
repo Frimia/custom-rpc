@@ -1,0 +1,8 @@
+key: "<client id goes here>"
+presence:
+  # specify arguments to https://github.com/devsnek/discord-rich-presence's
+  # updatePresence function here
+  state: "chillin"
+  details: "writing code or something"
+  largeImageKey: "haha-itsme"
+  smallImageKey: None
